@@ -1,2 +1,2 @@
-# ML ALGORITHMS TRAINING
-## Machine Learning algorithms training and testing for mini project 1.
+# ML ALGORITHMS LEARNING
+## Regression based algorithm's developed based on 3 different cities for Prediction of 'HOUSE PRICES'.
